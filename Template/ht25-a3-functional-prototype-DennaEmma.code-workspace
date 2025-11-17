@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../Projects/CodePlayground-Flower-main 5"
+		},
+		{
+			"path": "../../../../Projects/CodePlayground-main 3"
+		}
+	],
+	"settings": {
+		"livePreview.showServerStatusNotifications": false,
+		"terminal.integrated.fontLigatures.enabled": true,
+		"workbench.editor.limit.enabled": true,
+		"workbench.editor.limit.value": 5,
+		"chat.mcp.access": "none",
+		"chat.mcp.autostart": "never",
+		"chat.mcp.discovery.enabled": {
+			"claude-desktop": false,
+			"windsurf": false,
+			"cursor-global": false,
+			"cursor-workspace": false
+		},
+		"inlineChat.enableV2": false,
+		"chat.disableAIFeatures": false,
+		"chat.agent.enabled": false,
+		"chat.commandCenter.enabled": false,
+		"chat.extensionTools.enabled": false,
+		"chat.sendElementsToChat.enabled": false,
+		"chat.checkpoints.enabled": true,
+		"chat.emptyChatState.enabled": false,
+		"chat.implicitContext.suggestedContext": false,
+		"chat.math.enabled": false
+	}
+}
